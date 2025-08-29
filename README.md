@@ -15,8 +15,6 @@ A minimal, fast Kanban board to organize tasks by status and priority. Drag card
 - **Responsive** layout for desktop and mobile
 - Local, client-side persistence (easy to switch to an API later)
 
-> Tip: If your current build doesn’t include some items above, just remove that bullet. This README is structured so you can toggle sections easily.
-
 ---
 
 ## 🧱 Tech Stack
@@ -30,7 +28,6 @@ A minimal, fast Kanban board to organize tasks by status and priority. Drag card
 
 ## 📸 Screenshots
 
-> Replace the placeholders with your own images from `/public` or an issue/PR:
 
 <img width="500" height="300" alt="Screenshot 2025-08-29 223353" src="https://github.com/user-attachments/assets/4cf698ed-162d-4a68-a831-c55f18710a8a" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/1f67ac09-48f2-401b-9f1e-60937d67a94e" />
@@ -40,7 +37,6 @@ A minimal, fast Kanban board to organize tasks by status and priority. Drag card
 
 ## 🚀 Getting Started (Local)
 
-> Works for most React/Vite/Next-style projects. Adjust scripts if needed.
 
 ```bash
 # 1) Clone your repo
